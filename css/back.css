@@ -1,0 +1,42 @@
+p {
+    font-family: verdana;
+    color: #7B7B7B;
+}
+
+body {
+    background-color: #FFF;
+    ;
+}
+
+.div1 {
+    font-family: verdana;
+    color: #FFF;
+    height: 200px;
+    text-align: center;
+    line-height: 200px;
+    margin: 20px;
+    background-color: #EEB631;
+    border-radius: 15px;
+    text-decoration: underline;
+}
+
+h3 {
+    text-decoration: underline;
+    font-family: verdana;
+    color: #D8A000;
+}
+
+.ita {
+    font-style: italic;
+    font-family: none;
+}
+
+.info {
+    color: #7B7B7B;
+    font-family: verdana;
+}
+
+h5 {
+    font-family: verdana;
+    color: #AC5F00;
+}
